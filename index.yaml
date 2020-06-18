@@ -3,12 +3,12 @@ entries:
   SMS:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-06-16T23:38:43.9641896+02:00"
+    created: "2020-06-18T10:50:28.9871293+02:00"
     description: Simple Mesh Service
-    digest: 7485440b399da38231e64a335c913d5b9d46deaf5118660161e18150abc6015c
+    digest: 786739be7d6046f3dc8d9fe2fd76a11b14d27aaae2c1b203b002d22ed324aa5b
     name: SMS
     type: application
     urls:
     - https://mmohamed.github.io/kubernetes-charts/SMS-0.1.0.tgz
     version: 0.1.0
-generated: "2020-06-16T23:38:43.9513732+02:00"
+generated: "2020-06-18T10:50:28.9847604+02:00"
